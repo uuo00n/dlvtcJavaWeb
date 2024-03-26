@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/huangjunbo_01/huangjunbo_01.iml" filepath="$PROJECT_DIR$/huangjunbo_01/huangjunbo_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet_TestApplication/servlet_TestApplication.iml" filepath="$PROJECT_DIR$/servlet_TestApplication/servlet_TestApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet_TestCookie/servlet_TestCookie.iml" filepath="$PROJECT_DIR$/servlet_TestCookie/servlet_TestCookie.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet_TestServletLife/servlet_TestServletLife.iml" filepath="$PROJECT_DIR$/servlet_TestServletLife/servlet_TestServletLife.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet_TestSession/servlet_TestSession.iml" filepath="$PROJECT_DIR$/servlet_TestSession/servlet_TestSession.iml" />
