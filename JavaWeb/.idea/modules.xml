@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/huangjunbo_01/huangjunbo_01.iml" filepath="$PROJECT_DIR$/huangjunbo_01/huangjunbo_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_Listener/jsp_Listener.iml" filepath="$PROJECT_DIR$/jsp_Listener/jsp_Listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_autoexam/jsp_autoexam.iml" filepath="$PROJECT_DIR$/jsp_autoexam/jsp_autoexam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp_checkuser/jsp_checkuser.iml" filepath="$PROJECT_DIR$/jsp_checkuser/jsp_checkuser.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_testfilter/jsp_testfilter.iml" filepath="$PROJECT_DIR$/jsp_testfilter/jsp_testfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/request_obj/request_obj.iml" filepath="$PROJECT_DIR$/request_obj/request_obj.iml" />
       <module fileurl="file://$PROJECT_DIR$/response_obj/response_obj.iml" filepath="$PROJECT_DIR$/response_obj/response_obj.iml" />
