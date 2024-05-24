@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/jsp_autoexam/jsp_autoexam.iml" filepath="$PROJECT_DIR$/jsp_autoexam/jsp_autoexam.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_checkuser/jsp_checkuser.iml" filepath="$PROJECT_DIR$/jsp_checkuser/jsp_checkuser.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_jdbc/jsp_jdbc.iml" filepath="$PROJECT_DIR$/jsp_jdbc/jsp_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsp_jdbcpool/jsp_jdbcpool.iml" filepath="$PROJECT_DIR$/jsp_jdbcpool/jsp_jdbcpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_jstl/jsp_jstl.iml" filepath="$PROJECT_DIR$/jsp_jstl/jsp_jstl.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_studentjdbc/jsp_studentjdbc.iml" filepath="$PROJECT_DIR$/jsp_studentjdbc/jsp_studentjdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/jsp_testfilter/jsp_testfilter.iml" filepath="$PROJECT_DIR$/jsp_testfilter/jsp_testfilter.iml" />
